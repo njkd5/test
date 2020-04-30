@@ -1,8 +1,8 @@
 {
-"name":"njkd/test"
-"extra":{
-	"branch-alias":{
-	"dev-master":"7.0-dev"
-}
-}
+  "name": "njkd/test",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "7.0-dev"
+    }
+  }
 }
