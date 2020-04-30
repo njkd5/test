@@ -2,7 +2,7 @@
   "name": "njkd/test",
   "extra": {
     "branch-alias": {
-      "dev-master": "asd"
+      "dev-master": "asd-dev"
     }
   }
 }
